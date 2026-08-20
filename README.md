@@ -10,7 +10,7 @@ This was an academic assignment for my CS 3308 Information Retrieval course. I b
 - Cosine similarity for ranking documents
 - Returns top 20 results sorted by relevance
 
-- **Included in the PDF:**
+**Included in the PDF:**
 - Python source code
 - Assignment description
 - Sample output for the query "home mortgage"
