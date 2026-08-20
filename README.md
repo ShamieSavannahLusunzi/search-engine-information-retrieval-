@@ -2,7 +2,7 @@
 
 This was an academic assignment for my CS 3308 Information Retrieval course. I built a command-line search engine that processes queries and ranks documents by relevance.
 
-Technologies: Python, Porter Stemmer, tf-idf, Cosine Similarity
+**Technologies:** Python, Porter Stemmer, tf-idf, Cosine Similarity
 
 **Key Features:**
 - Inverted index with stopword removal and token filtering
